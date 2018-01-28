@@ -1,0 +1,1 @@
+webpackJsonp([4,5],{2:function(module,exports,i){(function($){function i(i){$("#slide").slick({dots:!0,infinite:!0,speed:300,slidesToShow:1,centerMode:!0,variableWidth:!0,lazyLoad:"ondemand",autoplay:!0,arrows:!1})}module.exports={init:i}}).call(exports,i(1))}});
